@@ -16,3 +16,10 @@
 * Connecting an SQL connection to Python
 * Utilised PyCharm to link DB schema to the IDE for syntaxes
 * Basic SQL queries run using the .execute() module.
+
+**Day 03: 25/11**
+
+* Basic SQL `connection` queries
+* SQL SELECT statements
+* SQL Placeholders
+* SQL Parameterised methods for avoiding Injection attacks
